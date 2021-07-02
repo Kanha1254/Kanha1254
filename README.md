@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kanha1254
 - 👀 I’m interested in ...coding
 - 🌱 I’m currently learning ...optimization algorithms  
-- 💞️ I’m looking to collaborate on ...python
+- 💞️ I’m good at Data_Structure and C++.
 - 📫 How to reach me ...9599892945
 
 <!---
