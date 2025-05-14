@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kanha1254
-- 👀 I’m interested in ...coding
+- 👀 I’m interested in ...5G/6G Core & RAN Development and Testing.
 - 🌱 I’m currently learning ... algorithm optimization and 5G
 - 💞️ I’m good at Data_Structure and C++.
 - 📫 How to reach me ...9599892945
